@@ -16,7 +16,7 @@ This guide provides instructions for deploying the machine learning models devel
 1. Clone the repository:
 ```bash
 git clone https://github.com/UmaisMu/AI_NLP_Models.git
-cd <project-directory>
+cd AI_NLP_Modelss
 ```
 
 2. Create and activate a virtual environment:
