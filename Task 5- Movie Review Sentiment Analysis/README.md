@@ -14,7 +14,7 @@ This project implements a sentiment analysis system for movie reviews using mach
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/UmaisMu/AI_NLP_Models.git
 cd Movie-Review-Sentiment-Analysis
 ```
 
