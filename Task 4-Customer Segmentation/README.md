@@ -16,7 +16,7 @@ This project implements customer segmentation using K-means clustering to analyz
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/UmaisMu/AI_NLP_Models.git
 cd Customer-Segmentation-Using-Clustering
 ```
 
