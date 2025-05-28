@@ -15,7 +15,7 @@ This project implements a machine learning-based system for detecting fake news 
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/UmaisMu/AI_NLP_Models.git
 cd Fake-news-detection
 ```
 
